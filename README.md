@@ -1,4 +1,4 @@
 # Algorithm&Programing-LAB
-Algorithm&Programing-LAB__
-Owner:  Andres W__
+Algorithm&Programing-LAB <br />
+Owner:  Andres W <br />
         NIM: 2802501123
