@@ -1,4 +1,6 @@
 def unify(A,B):
+    B = list(dict.fromkeys(B))
+    A = list(dict.fromkeys(A))
     C=A
     for i in B:
         flag = False
